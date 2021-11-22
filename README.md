@@ -9,4 +9,4 @@ Image Processing techniques used to detect white blood cells (WBCs) in sample bl
 * Numpy
 * CV2
 
-* For more information please refer to the Project Report in the repository.
+### For more information please refer to the Project Report in the repository.

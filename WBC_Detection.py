@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 11 12:45:35 2020
-
-@author: aniru
-"""
 
 #First run 
 
